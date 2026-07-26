@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.streamlit/secrets.toml
+models/*.pt
+models/*.onnx
+*.pt
+*.onnx
+runs/
+outputs/
+evidence/
+*.mp4
+*.avi
+*.mov
