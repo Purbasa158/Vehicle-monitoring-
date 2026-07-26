@@ -1,0 +1,6 @@
+# Example standard YOLO dataset configuration. Change `path` to your data root.
+path: ../my_plate_dataset
+train: images/train
+val: images/val
+names:
+  0: license_plate
